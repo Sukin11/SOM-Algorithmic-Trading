@@ -1,0 +1,11 @@
+# Core
+numpy>=1.23
+scikit-learn>=1.2
+minisom>=2.3
+
+# Optional — visualisations
+matplotlib>=3.5
+
+# Development / testing
+pytest>=7.0
+pytest-cov
