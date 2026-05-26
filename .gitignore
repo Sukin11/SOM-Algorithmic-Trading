@@ -1,0 +1,28 @@
+# Python
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# Test / coverage
+
+.coverage
+htmlcov/
+
+# Saved models
+models/
+/tmp/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store
